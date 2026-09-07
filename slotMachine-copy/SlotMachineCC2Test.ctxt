@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SlotMachineCC2Test
+comment0.text=\r\n\ Clase\ de\ pruebas\ compartida\ para\ ciclo\ 2\ de\ SlotMachine\r\n\ Cada\ caso\ incluye\ en\ su\ nombre\ iniciales\ en\ orden\ alfabetico\:\r\n\ As\ \=\ Alvarez\ Silva,\ Ga\ \=\ Gonzalez\ Alba.\r\n\r\n\ @author\ Sergio\ Luis\ Gonzalez\ Alba\ (Ga),\ Juan\ Andres\ Alvarez\ Silva\ (As)\r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ accordingAsGaShouldKeepTheSameNumberOfWheelsAfterASwap()
+comment2.text=\r\n\ Al\ intercambiar\ dos\ ruedas,\ la\ maquina\ debe\ seguir\ teniendo\ el\ mismo\r\n\ numero\ de\ ruedas\ (swap\ no\ debe\ agregar\ ni\ perder\ ruedas)\r\n
+comment3.params=
+comment3.target=void\ accordingAsGaShouldNotChangeALockedWheelWhenSpinning()
+comment3.text=\r\n\ Una\ rueda\ fija\ no\ debe\ cambiar\ su\ simbolo\ al\ frente,\ ni\ con\r\n\ spin(wheel)\ ni\ con\ spin(wheel,steps)\r\n
+numComments=4
